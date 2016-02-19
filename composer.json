@@ -1,1 +1,17 @@
-
+{
+    "name": "renanpro03/mikrotik-webmonitor",
+    "keywords": ["mikrotik"],
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Renan Parra",
+            "email": "renanpro03@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
